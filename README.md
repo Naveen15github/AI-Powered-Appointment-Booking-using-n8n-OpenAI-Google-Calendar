@@ -5,7 +5,7 @@ This workflow enables users to book, reschedule, and manage appointments through
 
 The system intelligently understands user intent, checks real-time calendar availability, handles conflicts, and creates calendar events seamlessly.
 
-![Alt Text](image-url)
+![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar-/blob/8788ba30ffaed29bc1671c43125b9c64ab735750/Screenshot%20(313).png)
 
 ---
 
@@ -24,9 +24,9 @@ It allows users to:
 The entire workflow is designed for **scalability, reliability, and extensibility**, making it suitable for real-world business use cases such as consultation booking, service scheduling, or internal meeting management.
 
 ---
-![Alt Text](image-url)
-![Alt Text](image-url)
-![Alt Text](image-url)
+![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar-/blob/8788ba30ffaed29bc1671c43125b9c64ab735750/Screenshot%20(308).png)
+![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar-/blob/8788ba30ffaed29bc1671c43125b9c64ab735750/Screenshot%20(309).png)
+![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar-/blob/8788ba30ffaed29bc1671c43125b9c64ab735750/Screenshot%20(311).png)
 
 ## 🧠 System Architecture
 
