@@ -26,7 +26,7 @@ The entire workflow is designed for **scalability, reliability, and extensibilit
 ---
 ![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar-/blob/8788ba30ffaed29bc1671c43125b9c64ab735750/Screenshot%20(308).png)
 ![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar-/blob/8788ba30ffaed29bc1671c43125b9c64ab735750/Screenshot%20(309).png)
-![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar-/blob/8788ba30ffaed29bc1671c43125b9c64ab735750/Screenshot%20(311).png)
+![Alt Text](https://github.com/Naveen15github/AI-Powered-Appointment-Booking-using-n8n-OpenAI-Google-Calendar/blob/73ef7c9ebae58377ef024581b2f78216614b6941/Screenshot%20(314).png)
 
 ## 🧠 System Architecture
 
