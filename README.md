@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Appointment Booking using(n8n + OpenAI + Google Calendar)
+# 🤖 AI-Powered Appointment Booking using n8n + OpenAI + Google Calendar
 
 A **fully automated, AI-driven appointment booking system** built using **n8n**, **OpenAI**, and **Google Calendar**.
 This workflow enables users to book, reschedule, and manage appointments through natural language conversations — without manual intervention.
