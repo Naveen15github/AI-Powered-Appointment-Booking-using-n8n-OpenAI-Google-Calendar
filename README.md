@@ -5,9 +5,11 @@ This workflow enables users to book, reschedule, and manage appointments through
 
 The system intelligently understands user intent, checks real-time calendar availability, handles conflicts, and creates calendar events seamlessly.
 
+![Alt Text](image-url)
+
 ---
 
-## 🚀 Project Overview
+## 🚀 Overview
 
 This project implements a **production-ready conversational appointment scheduling system** using **AI orchestration** and **event-driven automation**.
 
@@ -22,6 +24,9 @@ It allows users to:
 The entire workflow is designed for **scalability, reliability, and extensibility**, making it suitable for real-world business use cases such as consultation booking, service scheduling, or internal meeting management.
 
 ---
+![Alt Text](image-url)
+![Alt Text](image-url)
+![Alt Text](image-url)
 
 ## 🧠 System Architecture
 
